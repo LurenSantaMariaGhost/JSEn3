@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Blazer Conjunto Slim fit",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 399
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Blazer Traje Estructura",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 299
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Blazer Confort Estructura",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 399
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo Mezcla Lana Black",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 519
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Saco Cuello Desmontable",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 349
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Mix Estructura",
+        "imagen": "./img/camisetas/011.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 119
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Punta Algodón",
+        "imagen": "./img/camisetas/012.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 229
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Bordado Pure",
+        "imagen": "./img/camisetas/013.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 169
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Parche Mix Fit",
+        "imagen": "./img/camisetas/014.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 169
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Texto Slim Fit",
+        "imagen": "./img/camisetas/015.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 169
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Estampado Fit",
+        "imagen": "./img/camisetas/016.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 299
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Texto Slim Fit",
+        "imagen": "./img/camisetas/017.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 299
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Rayas Parche",
+        "imagen": "./img/camisetas/018.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 299
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Cintura Jogger",
+        "imagen": "./img/pantalones/0111.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 139
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Chino Algodón",
+        "imagen": "./img/pantalones/0112.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 149
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Cargo Colloky",
+        "imagen": "./img/pantalones/0113.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 169
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Cargo Slim Fit",
+        "imagen": "./img/pantalones/0114.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 199
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Jogger Básico",
+        "imagen": "./img/pantalones/0115.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 139
+    }
+]
